@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bitbucket.amedeo.firebaseHelper.CreationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-12-04T00:20:58" hostname="Stefanos-MacBook-Pro.local" time="5.811">
+  <properties/>
+  <testcase name="insert_shouldReturnJsonInserted" classname="org.bitbucket.amedeo.firebaseHelper.CreationTest" time="5.811"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
